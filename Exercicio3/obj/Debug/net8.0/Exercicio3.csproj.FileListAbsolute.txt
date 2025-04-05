@@ -1,0 +1,15 @@
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfo.cs
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.sourcelink.json
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\bin\Debug\net8.0\Exercicio3.exe
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\bin\Debug\net8.0\Exercicio3.deps.json
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\bin\Debug\net8.0\Exercicio3.runtimeconfig.json
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\bin\Debug\net8.0\Exercicio3.dll
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\bin\Debug\net8.0\Exercicio3.pdb
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.dll
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\refint\Exercicio3.dll
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.pdb
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
+C:\Users\LittleAnjel\source\repos\LittleAnjel\ExerciciosPOO\Exercicio3\obj\Debug\net8.0\ref\Exercicio3.dll
