@@ -55,7 +55,7 @@ namespace Exercicio1
             }
             //Atualiza o valor do saldo da conta
             _saldo += valor;
-            var transacao = new Transacao (TipoTransacao.Deposito, valor, $"Depósito de {valor} efetuado com sucesso.");
+            var transacao = new Transacao (TipoTransacao.Deposito, valor, $"Depósito de {valor} efetuado com sucesso!");
     _transacoes.Add(transacao);
         }
         //Validação de valor do saque e saldo suficiente
